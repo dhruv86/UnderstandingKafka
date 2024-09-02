@@ -1,6 +1,8 @@
 # Understanding Kafka
 Understanding Apache Kafka
 
+**Start the topic**
+
 ```
 cd /app/confluent-7.3.1/bin
 
