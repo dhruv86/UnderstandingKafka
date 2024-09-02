@@ -1,4 +1,4 @@
-# UnderstandingKafka
+# Understanding Kafka
 Understanding Apache Kafka
 
 ```
