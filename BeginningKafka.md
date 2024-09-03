@@ -39,6 +39,18 @@ The Kafka Java client library allows JVM-based applications to interact with the
 <img width="1351" alt="image" src="https://github.com/user-attachments/assets/2639307e-883e-4d20-9b0c-73bb4189e3f0">
 
 
+Here are some of the important packages in the Kafka Java client library:
+
+org.apache.kafka.clients.*: This contains the Producer, Consumer, and Admin API classes.
+
+org.apache.kafka.connect.*: This is used to build source and sink connectors.
+
+org.apache.kafka.streams.*: This is used to build stream processing applications.
+
+org.apache.kafka.common.*: This deals with cross-cutting concerns like security, error handling, etc.
+
+Let’s explore some of the classes/interfaces across some of these packages. You will see them in action throughout this course, and now is a good time to get familiar with them.
+
 
 
 
